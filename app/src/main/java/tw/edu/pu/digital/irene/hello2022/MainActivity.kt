@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         TestDEV()
     }
     fun TestDEV(){var txv:TextView = findViewById<TextView>(R.id.txv)
-        txv.text = "Dev分支"
+        txv.text = "Dev分支1"
     }
 }
 
